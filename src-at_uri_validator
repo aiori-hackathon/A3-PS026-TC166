@@ -1,0 +1,9 @@
+def parse(uri_string):
+    print(f"Parsing: {uri_string}")
+    return {}
+
+def serialize(parsed_object):
+    return ""
+
+def validate(uri_string):
+    return True, []
